@@ -9,6 +9,11 @@ ID: A1
  Browser: Google Chrome v96.0.4764.55 x64
  Component: Кнопка Каталог
  Build: 1.2.3
- Actual result: Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога                                                        Expected result: Нажатие кнопки Каталог перенаправляет на страницу Каталога                                                         Severity: Critical                                                Priority: Highical                                                Status: Openghical                                                Author: Пал Палычl
+ Actual result: Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога                                                        
+ Expected result: Нажатие кнопки Каталог перенаправляет на страницу Каталога                                                         
+ Severity: Critical                                                
+ Priority: Highical                                                
+ Status: Openghical                                                
+ Author: Пал Палычl
  Sign to: Иван Васильевич
  Attachments: ссылка_на_картинку_или_видео_с_багом
